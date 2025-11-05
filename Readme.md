@@ -108,8 +108,6 @@ Detected: Circuit Board — 88% Confidence
 Detected: Wire — 90% Confidence
 ```
 
-*Sample Output Image (Placeholder)*  
-![Real-Time Detection Example](assets/output_sample1.jpg)
 
 ---
 
