@@ -128,7 +128,6 @@ Users can upload an image containing e-waste, and the model will automatically c
 | **mAP (Mean Average Precision)** | 91.2% |
 | **FPS (Real-Time Processing)** | ~25 FPS |
 
-> *(Metrics are based on test dataset performance; can improve with more training data.)*
 
 ---
 
