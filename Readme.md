@@ -70,8 +70,8 @@ Follow these steps to set up and run the system on your local machine.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/e-waste-segregation-yolov11.git
-   cd e-waste-segregation-yolov11
+   git clone https://github.com/CodeByAtharva/PBL-project.git
+   cd PBL-project
    ```
 
 2. **Install Dependencies**
